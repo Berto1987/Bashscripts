@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MYUSERS="alpha beta gamma"
+MYUSERS="berto gima joy"
 
 for usr in $MYUSERS
 do 
